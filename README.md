@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guilherme Nicoleti</h1>
 <h3 align="center">Moved by the constant thirst for learning, I always try to be connected to the main news and nourishing myself with information that can contribute to my academic and mental training.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsxgui" alt="devsxgui" /></a> </p>
-
 - 🌱 I’m currently learning **Systems for internet**
 
 - 💬 Ask me about **books, series and some tecnologies.**
